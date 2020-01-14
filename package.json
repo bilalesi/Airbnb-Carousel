@@ -1,0 +1,27 @@
+{
+  "name": "react-and-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "emotion": "9.1.2",
+    "emotion-icons": "0.0.7",
+    "emotion-theming": "9.2.6",
+    "grid-styled": "5.0.2",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-emotion": "9.1.2",
+    "react-lazyload": "2.3.0",
+    "react-powerplug": "1.0.0-rc.1",
+    "react-swipeable-views": "0.12.16",
+    "system-components": "3.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
